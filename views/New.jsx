@@ -10,7 +10,7 @@ function New(){
                 <label htmlFor="entry"></label>
                 <textarea id="entry" name="entry"></textarea><br/>
                 <label htmlFor="shipIsBroken">Ship is Broken</label>
-                <input type="checkbox" id="shipIsBroken" name="shipIsBroken"/><br/>
+                <input type="checkbox" id="shipIsBroken" name="shipIsBroken" value="true"/><br/>
                 <input type="submit" value="submit"/>               
             </form>
         </div>
